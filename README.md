@@ -55,7 +55,9 @@
     <p>Career and Technical Educator (CTE) License - Chicago, IL (Obtained: December 2025)</p>
     <p>Lawrence University – Appleton, WI (Completed: June 2020)</p>
     <p>Bachelor of Arts in English and Government (International Relations)<p>
-    <p class="indentation1"><ul><li>Minors: Creative Writing: Poetry, Ethnic Studies, Innovation & Entrepreneurship Concentration</p></li></ul>
+    <p class="indentation1">
+      <ul>
+        <li>Minors: Creative Writing: Poetry, Ethnic Studies, Innovation & Entrepreneurship Concentration</li></ul></p>
     <p>Latin School of Chicago - Chicago, IL (Completed: June 2015)</p>
 
   <hr size="8" style="background-color:black;">
@@ -312,13 +314,11 @@
                   <li>Collaborated with other groups focused on diversity, equity, and inclusion, providing new perspectives and incorporating intersectional approaches into planning for the Greek community</li>
                   <li>Led introspective change initiatives for chapters, promoting awareness and action in terms of diversity, equity, and inclusion within the Greek life context</li>
                 </ul>
-      </div>
     </div>
-    <div class="footer">
+    
+  <div class="footer">
       <h2>Email: rufinocacho@gmail.com | Cell: (773) 391-9517 | Chicago, IL</h2>
     </div>
     <footer>
       Created by Rufino Cacho (Updated 2026)
     </footer>
-  </body>
-</html>
