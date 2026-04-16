@@ -314,7 +314,7 @@
                   <li>Collaborated with other groups focused on diversity, equity, and inclusion, providing new perspectives and incorporating intersectional approaches into planning for the Greek community</li>
                   <li>Led introspective change initiatives for chapters, promoting awareness and action in terms of diversity, equity, and inclusion within the Greek life context</li>
                 </ul>
-    </div>
+
     
   <div class="footer">
       <h2>Email: rufinocacho@gmail.com | Cell: (773) 391-9517 | Chicago, IL</h2>
