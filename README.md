@@ -1,18 +1,8 @@
-<!--# rufinocacho.github.com
-Personal Website-->
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>
-      Rufino Cacho
-    </title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
-      body {
-        font-family: Times 'Times New Roman', Times, serif;
-      }
-    </style>
     <link rel="stylesheet" type="text/css" href="style.css"/>
   </head>
   
@@ -61,13 +51,10 @@ Personal Website-->
             <li>Project Lead The Way (PLTW) Grant Recipient (2026)</li>
           </ul>
       </div>
-<img width="468" height="73" alt="image" src="https://github.com/user-attachments/assets/3f35e384-c206-4630-93c7-28ae2aecd6a9" />
-
-      </div>
               
   <div class="main">
     <h1><u>Education</u></h1>
-    <p>Career and Technical Educator (CTE) License (Obtained: December 2025)</p>
+    <p>Career and Technical Educator (CTE) License - Chicago, IL (Obtained: December 2025)</p>
     <p>Lawrence University – Appleton, WI (Completed: June 2020)</p>
     <p>Bachelor of Arts in English and Government (International Relations)<p>
     <p class="indentation1"><ul><li>Minors: Creative Writing: Poetry, Ethnic Studies, Innovation & Entrepreneurship Concentration</p></li></ul>
@@ -333,8 +320,7 @@ Personal Website-->
       <h2>Email: rufinocacho@gmail.com | Cell: (773) 391-9517 | Chicago, IL</h2>
     </div>
     <footer>
-      Created by Rufino Cacho (Updated June 2024)
+      Created by Rufino Cacho (Updated 2026)
     </footer>
   </body>
 </html>
-<img width="468" height="645" alt="image" src="https://github.com/user-attachments/assets/679f3394-9f18-4672-86be-f6cc98cb3a49" />
